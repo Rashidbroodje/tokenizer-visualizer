@@ -1,0 +1,4 @@
+De natuurlijke taalverwerking maakt gebruik van subwoordtokenisatie.
+Ongelofelijk belangrijk in de context van machine learning.
+We trainen een model op Nederlandse tekst.
+Tokenisatie helpt bij het omgaan met onbekende woorden zoals belangrijkheid.
